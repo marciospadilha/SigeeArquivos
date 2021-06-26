@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Perfils.aspx" hash="29a823c4e" filehash="b22b664ffcbf8dab" flags="110000" assembly="App_Web_perfils.aspx.cdcab7d2" type="ASP.perfils_aspx">
+    <filedeps>
+        <filedep name="/Perfils.aspx" />
+        <filedep name="/SigeeMaster.Master" />
+    </filedeps>
+</preserve>

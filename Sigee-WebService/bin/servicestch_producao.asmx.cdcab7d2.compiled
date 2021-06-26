@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/ServiceStch_Producao.asmx" hash="4a0e891e" filehash="ffffe2f778380122" flags="130000" assembly="WsStch" type="WsStch.ServiceStch_Producao">
+    <filedeps>
+        <filedep name="/ServiceStch_Producao.asmx" />
+    </filedeps>
+</preserve>

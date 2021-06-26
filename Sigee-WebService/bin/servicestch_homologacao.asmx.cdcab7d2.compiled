@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/ServiceStch_Homologacao.asmx" hash="4a0e891e" filehash="ffffc4abc366547b" flags="130000" assembly="WsStch" type="WsStch.ServiceStch_Homologacao">
+    <filedeps>
+        <filedep name="/ServiceStch_Homologacao.asmx" />
+    </filedeps>
+</preserve>

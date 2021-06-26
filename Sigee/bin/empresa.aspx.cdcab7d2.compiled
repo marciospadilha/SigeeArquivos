@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Empresa.aspx" hash="29a823c4e" filehash="dd5b8f807702bbae" flags="110000" assembly="App_Web_empresa.aspx.cdcab7d2" type="ASP.empresa_aspx">
+    <filedeps>
+        <filedep name="/Empresa.aspx" />
+        <filedep name="/SigeeMaster.Master" />
+    </filedeps>
+</preserve>

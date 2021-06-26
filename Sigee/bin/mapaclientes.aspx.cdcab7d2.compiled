@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/MapaClientes.aspx" hash="29a823c4e" filehash="6be18dadcec47115" flags="110000" assembly="App_Web_mapaclientes.aspx.cdcab7d2" type="ASP.mapaclientes_aspx">
+    <filedeps>
+        <filedep name="/MapaClientes.aspx" />
+        <filedep name="/SigeeMaster.Master" />
+    </filedeps>
+</preserve>

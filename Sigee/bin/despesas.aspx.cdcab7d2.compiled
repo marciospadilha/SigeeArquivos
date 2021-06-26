@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Despesas.aspx" hash="29a823c4e" filehash="393e30defa5260c5" flags="110000" assembly="App_Web_despesas.aspx.cdcab7d2" type="ASP.despesas_aspx">
+    <filedeps>
+        <filedep name="/Despesas.aspx" />
+        <filedep name="/SigeeMaster.Master" />
+    </filedeps>
+</preserve>

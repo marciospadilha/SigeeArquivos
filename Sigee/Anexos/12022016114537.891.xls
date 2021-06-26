@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#B7DEE8" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Detalhado">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="80" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="399"/>
+   <Column ss:Width="186.75"/>
+   <Column ss:Width="107.25"/>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Canal</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Executivo</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Quantidade Por Canal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">C.M.D.D. DIGITACAO LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA CLARA DA SILVEIRA PEDROSO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VSR.COM - INFORMÁTICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA CLARA DA SILVEIRA PEDROSO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GATE IT - SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO - LEANDRO PRATA VAZ - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA MARIA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">HELP SOLUCOES EM TI LTDA - EPP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA MARIA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MAC-IP TECNOLOGIA LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA MARIA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SIMPLETIC COMERCIO E SERVIÇOS DE INFORMATICA LTDA ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA MARIA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SOLUTEC ASSISTENCIA TECNICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA MARIA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">WISE COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA MARIA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GSUCOSKI SERVICOS DE INFORMATICA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA SELMA S. COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TOTALWARE SISTEMAS E REDES LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA SELMA S. COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JSRS COMERCIO DE INFORMATICA E INTERMEDIACAO DE NEGOCIOS LTDA - EPP </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CAIO CESAR REZENDE DE SOUSA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANTRAX COMÉRCIO SERVIÇOS INFORMÁTICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CASSIO CARNEIRO CORREA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MARCIUS AUGUSTO BORTOLO MANUTENÇÃO - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CASSIO CARNEIRO CORREA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MEGACONSULT INFORMATICA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CASSIO CARNEIRO CORREA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GUINUX INFORMATICA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CELINA KASTECKAS VALERIO </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">NOTEMAX COMERCIO E SISTEMAS LTDA - EPP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CELINA KASTECKAS VALERIO </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">QUALITEK TECNOLOGIA LTDA  EPP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CELINA KASTECKAS VALERIO </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RICARDO D AGUSTIN 00849357152</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CELINA KASTECKAS VALERIO </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TOTEN SOLUCOES EM TECNOLOGIA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CELINA KASTECKAS VALERIO </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LEMYN ARTE E INFORMATICA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAVID DE SOUZA MARTINS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MK-TI SUPORTE INFORMATICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAVID DE SOUZA MARTINS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PROTEGE BR PROTECAO TECNOLOGIA E GESTAO DO BRASIL LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAVID DE SOUZA MARTINS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">REDIX REPRESENTAÇÕES COMERCIAIS LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAVID DE SOUZA MARTINS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SEBASTIAO ANTONIO CAMPOS - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAVID DE SOUZA MARTINS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BJ&amp;&amp;L COMERCIO E SERVIÇOS DE INFORMATICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DIOGO CALAZANS PIERRI</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I S C TECNOLOGIA DA INFORMAÇÃO LTDA -ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DIOGO CALAZANS PIERRI</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">POSTWIL SERVICOS DE INFORMATICA LTDA-ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DIOGO CALAZANS PIERRI</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ZOHAR CONSULTORIA E ASSESSORIA FINANCEIRA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JOSEANA SANTOS PEREIRA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">AKER CONSULTORIA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RENATO PERRI JUNIOR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LVR INFORMAÇÃO E TECNOLOGIA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RENATO PERRI JUNIOR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TITECH</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RENATO PERRI JUNIOR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TOTALWARE SISTEMAS E REDES LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RENATO PERRI JUNIOR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A10TI DISTRIBUIDORA DE SOFTWARE LTDA. - EPP </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RODRIGO NUNES GOMES DA COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">E-MITH TECNOLOGIA E SERVIÇOS DE INFORMATICA EIRELI EPP </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RODRIGO NUNES GOMES DA COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">INFOR NETWORK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RODRIGO NUNES GOMES DA COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LOW RISK REPRESENTAÇÃO COMERCIO E CONSULTORIA EM INFORMÁTICA LTDA </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RODRIGO NUNES GOMES DA COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MEED SOLUÇÕES EM TI </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RODRIGO NUNES GOMES DA COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAG MANUTENCAO EM SISTEMAS DE INFORMATICA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GW3NETWORKS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MAX3D AUTOMACAO INDUSTRIAL LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MICROHARD INFORMATICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">OMNI SOFTWARE LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SACT COMERCIO DE ARTIGOS DE INFORMATICA LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UP INFORMATICA LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">WILLIAM HENRYK DOELL JUSTI 04461977935</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2 BITS SOLUCOES EM INFORMATICA LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ALLDIX INFORMATICA LTDA ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLAUDIO HENRIQUE DE MAIO ALVES INFORMATICA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CRAFTI SERVICOS INTELIGENTES DE INFORMATICA LTDA EPP TÍTULO DO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">FOCCUS INFORMATICA </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H&amp;J COMERCIO LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">INDICCA INFORMATICA LTDA - EPP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RMRDP BRITO INFORMATICA LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VIPER IT COMERCIO E SERVICOS DE INFORMATICA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BIG COMPANY</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO AVONA DO NASCIMENTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BIG SOFTWARE SERVICOS DE INFORMATICA LTDA. - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO AVONA DO NASCIMENTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">HPRO INFORMÁTICA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO AVONA DO NASCIMENTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M3 COMERCIO SOFTWARE EIRELI - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO AVONA DO NASCIMENTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"> TRIO INFO COMERCIO DE INFORMATICA LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3NET COMERCIO E ASSESSRIA EM INFORMATICA LTDA ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ELITE SOLUCOES EM TECNOLOGIA LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">INITD COMPUTADORES </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">INTERLAN CONSULTORIA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JULIANO AUGUSTO KERBER</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROSIMEIRE ALVES DA SILVA 62478362104</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">A&amp;L INFORMÁTICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">COMPUSOFTWARE INFORMATICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY SECURITY SERVICOS EM INFORMATICA LTDA EPP</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LILIAN CRISTINA BENICHIO DAYCHOUM - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">LIMASOFT INTEGRADORA DE TECNOLOGIA DA INFORMACAO LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">SICON SISTEMAS DE CONTROLE E INFORMATICA LTDA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VITOR RUSSI INFORMATICA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ADVANTAGE INFORMATICA </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">GALVAO SERVICOS EM SEGURANCA E INFORMATICA LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">HARDMANIA COMERCIO E SERVICOS LTDA - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">KS SOLUCOES CORPORATIVAS LTDA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M P HABERLI TECNOLOGIA - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MWS GESTAO EM T. I EIRELI - ME</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RT TECNOLOGIA DA INFORMACAO - ME </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>78</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Resumido">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="186.75"/>
+   <Column ss:Width="108"/>
+   <Row>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Executivo</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Quantidade de Canais</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA CLARA DA SILVEIRA PEDROSO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA MARIA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ANA SELMA S. COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CAIO CESAR REZENDE DE SOUSA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CASSIO CARNEIRO CORREA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CELINA KASTECKAS VALERIO </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DAVID DE SOUZA MARTINS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">DIOGO CALAZANS PIERRI</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">JOSEANA SANTOS PEREIRA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RENATO PERRI JUNIOR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">RODRIGO NUNES GOMES DA COSTA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">ROGERIO CESAR FIRMINIANO CAMPOS</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">TAIS FIORILLO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO AVONA DO NASCIMENTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">THIAGO SOUZA FONSECA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UILSON RODRIGO LINGUANOTO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">VALMIR PAULINO</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.31496062000000002"/>
+    <Footer x:Margin="0.31496062000000002"/>
+    <PageMargins x:Bottom="0.78740157499999996" x:Left="0.511811024"
+     x:Right="0.511811024" x:Top="0.78740157499999996"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

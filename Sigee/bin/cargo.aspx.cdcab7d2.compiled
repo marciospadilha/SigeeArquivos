@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Cargo.aspx" hash="29a823c4e" filehash="1256e1c83193a862" flags="110000" assembly="App_Web_cargo.aspx.cdcab7d2" type="ASP.cargo_aspx">
+    <filedeps>
+        <filedep name="/Cargo.aspx" />
+        <filedep name="/SigeeMaster.Master" />
+    </filedeps>
+</preserve>

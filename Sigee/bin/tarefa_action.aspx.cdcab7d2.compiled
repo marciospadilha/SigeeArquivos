@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Tarefa_Action.aspx" hash="29a823c4e" filehash="edb71b19eac24f6a" flags="110000" assembly="App_Web_tarefa_action.aspx.cdcab7d2" type="ASP.tarefa_action_aspx">
+    <filedeps>
+        <filedep name="/SigeeMaster.Master" />
+        <filedep name="/Tarefa_Action.aspx" />
+    </filedeps>
+</preserve>
